@@ -4,7 +4,7 @@ capitales["Francia"]="Paris";
 capitales["Alemania"]="Berlín";
 capitales["Chile"]="Santiago";
 capitales["Australia"]="Canberra";
-capitales["México"]="Mexico DF";
+capitales["Mexico"]="Mexico DF";
 
 function descubrir(elemento){
 	var pais = elemento.innerHTML;
